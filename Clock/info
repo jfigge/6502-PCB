@@ -1,0 +1,81 @@
+{
+  "uuid": "89024c51ea4562913e1cccbd919dcfe8",
+  "path": "Offline/Clock",
+  "name": "Clock",
+  "content": "",
+  "created_at": "2023-06-03 22:17:26",
+  "updated_at": "2023-06-03 22:29:57",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e7bca891e3625e7831884f3909467426",
+      "title": "Clock",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a805a87be4ee418892803142a3418538": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Edge connector 2x49x8",
+          1,
+          "EDGE CONNECTOR 2X49X8 DIVIDED",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "1ecec4a5358144baafe7ec507094296e",
+            "uuid": "a805a87be4ee418892803142a3418538"
+          }
+        ]
+      ],
+      "updateTime": 1685845259,
+      "createTime": 1683780959,
+      "histories": [],
+      "created_at": "2023-05-11 00:55:59",
+      "updated_at": "2023-06-03 22:20:59"
+    },
+    {
+      "uuid": "bfa42816f0f7df772a7aa32edb14e988",
+      "title": "PCB_Clock",
+      "filename": "PCB_Clock.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1ecec4a5358144baafe7ec507094296e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1685845797,
+      "createTime": 1683780615,
+      "histories": [],
+      "created_at": "2023-05-11 00:50:15",
+      "updated_at": "2023-06-03 22:29:57"
+    }
+  ],
+  "sort": [],
+  "title": "Clock",
+  "foldername": "Clock",
+  "schfilename": "Clock.json",
+  "schfilemtime": 1685845259800
+}

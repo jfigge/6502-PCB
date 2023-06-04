@@ -1,0 +1,144 @@
+{
+  "uuid": "5e989955495dcb847c03a4c6dd24b901",
+  "path": "Offline/Backplane",
+  "name": "Backplane",
+  "content": "",
+  "created_at": "2023-05-10 19:46:30",
+  "updated_at": "2023-06-02 23:46:32",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ddec8082241e92135efb0c0245d848a4",
+      "title": "Backplane1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "973edea3d2e74800a2146e0f1c3b4853": 5
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2x49 Edge Connector",
+          5,
+          "CONNECTOR CARD EDGE SKT 96 2.54MM",
+          "J1,J2,J3,J4,J5",
+          {
+            "BOM_Manufacturer": "TE Connectivity/AMP",
+            "BOM_Manufacturer Part": "5645169-3",
+            "BOM_Supplier": "RS-Online",
+            "BOM_Supplier Part": "718-8365",
+            "puuid": "f009f691e3bf44b8bf8c9b8c5869b720",
+            "uuid": "973edea3d2e74800a2146e0f1c3b4853"
+          }
+        ],
+        [
+          "2x49 Edge Connector",
+          5,
+          "CONNECTOR CARD EDGE SKT 96 2.54MM",
+          "J6,J7,J8,J9,J10",
+          {
+            "BOM_Manufacturer": "TE Connectivity/AMP",
+            "BOM_Manufacturer Part": "5645169-3",
+            "BOM_Supplier": "RS-Online",
+            "BOM_Supplier Part": "718-8365",
+            "puuid": "f009f691e3bf44b8bf8c9b8c5869b720",
+            "uuid": "973edea3d2e74800a2146e0f1c3b4853"
+          }
+        ]
+      ],
+      "updateTime": 1685761602,
+      "createTime": 1683762391,
+      "histories": [],
+      "created_at": "2023-05-10 19:46:31",
+      "updated_at": "2023-06-02 23:06:42"
+    },
+    {
+      "uuid": "fc6d29c1a40ac7074d67fa682afe724c",
+      "title": "Backplane2",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "973edea3d2e74800a2146e0f1c3b4853": 5
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2x49 Edge Connector",
+          5,
+          "CONNECTOR CARD EDGE SKT 96 2.54MM",
+          "J1,J2,J3,J4,J5",
+          {
+            "BOM_Manufacturer": "TE Connectivity/AMP",
+            "BOM_Manufacturer Part": "5645169-3",
+            "BOM_Supplier": "RS-Online",
+            "BOM_Supplier Part": "718-8365",
+            "puuid": "f009f691e3bf44b8bf8c9b8c5869b720",
+            "uuid": "973edea3d2e74800a2146e0f1c3b4853"
+          }
+        ],
+        [
+          "2x49 Edge Connector",
+          5,
+          "CONNECTOR CARD EDGE SKT 96 2.54MM",
+          "J6,J7,J8,J9,J10",
+          {
+            "BOM_Manufacturer": "TE Connectivity/AMP",
+            "BOM_Manufacturer Part": "5645169-3",
+            "BOM_Supplier": "RS-Online",
+            "BOM_Supplier Part": "718-8365",
+            "puuid": "f009f691e3bf44b8bf8c9b8c5869b720",
+            "uuid": "973edea3d2e74800a2146e0f1c3b4853"
+          }
+        ]
+      ],
+      "updateTime": 1685759512,
+      "createTime": 1683767081,
+      "histories": [],
+      "created_at": "2023-05-10 21:04:41",
+      "updated_at": "2023-06-02 22:31:52"
+    },
+    {
+      "uuid": "1150ecfe1e4141b1a0de4d929cc51e9f",
+      "puuid": "5e989955495dcb847c03a4c6dd24b901",
+      "title": "PCB_Backplane",
+      "filename": "PCB_Backplane.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f009f691e3bf44b8bf8c9b8c5869b720": 10
+      },
+      "BOM": [],
+      "updateTime": 1685763992,
+      "createTime": 1683809395,
+      "histories": [],
+      "created_at": "2023-05-11 08:49:55",
+      "updated_at": "2023-06-02 23:46:32"
+    }
+  ],
+  "sort": [
+    "ddec8082241e92135efb0c0245d848a4",
+    "fc6d29c1a40ac7074d67fa682afe724c"
+  ],
+  "title": "Backplane",
+  "foldername": "Backplane",
+  "schfilename": "Backplane.json",
+  "schfilemtime": 1685761602835
+}

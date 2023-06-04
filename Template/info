@@ -1,0 +1,81 @@
+{
+  "uuid": "2eb37527ff5646981cd7759fba7205c0",
+  "path": "Offline/Template",
+  "name": "Template",
+  "content": "",
+  "created_at": "2023-06-03 22:31:12",
+  "updated_at": "2023-06-03 22:32:06",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f3b60827bb76e41d2ac06e6ff7fc9e2c",
+      "title": "Template",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a805a87be4ee418892803142a3418538": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Edge connector 2x49x8",
+          1,
+          "EDGE CONNECTOR 2X49X8 DIVIDED",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "1ecec4a5358144baafe7ec507094296e",
+            "uuid": "a805a87be4ee418892803142a3418538"
+          }
+        ]
+      ],
+      "updateTime": 1685845259,
+      "createTime": 1683780959,
+      "histories": [],
+      "created_at": "2023-05-11 00:55:59",
+      "updated_at": "2023-06-03 22:20:59"
+    },
+    {
+      "uuid": "3ef36e4aeedd19529c5b3be9bc73b929",
+      "title": "PCB_Template",
+      "filename": "PCB_Template.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1ecec4a5358144baafe7ec507094296e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1685845797,
+      "createTime": 1683780615,
+      "histories": [],
+      "created_at": "2023-05-11 00:50:15",
+      "updated_at": "2023-06-03 22:29:57"
+    }
+  ],
+  "sort": [],
+  "title": "Template",
+  "foldername": "Template",
+  "schfilename": "Template.json",
+  "schfilemtime": 1685845900604
+}
